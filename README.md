@@ -1,14 +1,17 @@
-# Las 15 mejores extensiones para VSCode (2021)
+# Las 15 mejores extensiones para VSCode
 
 <p align="center">
  <a href="https://github.com/gdcodev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.facebook.com/gdcode7" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gastondanielsen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/gdcodev" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 
+![maxresdefault](https://github.com/user-attachments/assets/cadf0cc0-192f-403f-b3d3-f9983561fad5)
+
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a7t9pyfs20cqf1erzxc.png)
 
 En esta ocasión te mostraré las 15 extensiones que debes instalar en Visual Studio Code para sacarle el máximo  provecho y así facilitar tu trabajo día a día como desarrollador.
 
-1. # **PRETTIER** 
+1. **PRETTIER** 
    - Formatea tu código de manera automática.
 ![prettier](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xrj79eby083lkhs95ouc.png)
 2. **Auto Close Tag**
